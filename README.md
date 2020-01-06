@@ -1,4 +1,3 @@
-## Task-2 ##
 - Our task was focussed on developing a model to distinguish between language variants. Here we wish to distinguish between European Portuguese (PT-PT) and Brazilian Portuguese (PT-BR).
 
 ## Data ##
